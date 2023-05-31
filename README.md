@@ -2,4 +2,10 @@
 ## actividades del curso de testing - etapa 3 - informatorio
 
 ### actividad 1
-*relacionamos 
+*relacionamos SDLC con STLC*
+
+### actividad 2
+*documentamos pruebas de pagina web*
+
+### actividad 3
+*aplicamos particion de equivalencias y valores de frontera*

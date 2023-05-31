@@ -1,2 +1,5 @@
 # testing2023
-tareas del curso de testing - etapa 3 - informatorio
+## actividades del curso de testing - etapa 3 - informatorio
+
+### actividad 1
+*relacionamos 
